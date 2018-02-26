@@ -4,10 +4,11 @@
 
 Two important resource is used to install movidius SDK on Ubuntu 16.04
 
-
 https://github.com/BVLC/caffe/wiki/Ubuntu-16.04-or-15.10-Installation-Guide
 
 https://www.youtube.com/watch?v=fESFVNcQVVA
+
+Developer site: https://movidius.github.io/ncsdk/
 
 The basic steps followed after installing  git, etc. 
 
